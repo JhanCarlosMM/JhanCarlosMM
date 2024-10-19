@@ -7,19 +7,14 @@
 
 <div align="center">
 
-
-
 <summary>About me</summary>
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
+<br>
 <div align="left">
+<p align="center">Soy un desarrollador web con sólida experiencia en la creación de aplicaciones dinámicas y escalables utilizando las tecnologías más modernas. Mi stack principal incluye TypeScript, Angular, Ionic, HTML, Bootstrap y CSS, lo que me permite construir interfaces de usuario intuitivas y eficientes, tanto para aplicaciones web como móviles. He trabajado en proyectos que integran diseño responsivo, optimización para dispositivos móviles y un enfoque centrado en la experiencia del usuario.
 
- <p align="center">Soy un desarrollador web con sólida experiencia en la creación de aplicaciones dinámicas y escalables utilizando las tecnologías más modernas. Mi stack principal incluye TypeScript, Angular, Ionic, HTML, Bootstrap y CSS, lo que me permite construir interfaces de usuario intuitivas y eficientes, tanto para aplicaciones web como móviles.
-
-He trabajado en proyectos que integran diseño responsivo, optimización para dispositivos móviles y un enfoque centrado en la experiencia del usuario. Mi dominio de TypeScript y Angular me permite desarrollar soluciones con código mantenible y de alto rendimiento, mientras que Ionic me brinda la capacidad de llevar esas soluciones al entorno móvil de manera ágil.
-
-Estoy comprometido con la mejora continua, la adopción de nuevas tecnologías y la entrega de productos que superen las expectativas de los clientes, asegurando siempre que cada detalle del diseño sea implementado con precisión, desde la estructura HTML hasta el diseño visual con Bootstrap y CSS.</p>
+I am a web developer with solid experience in creating dynamic and scalable applications using the most modern technologies. My core stack includes TypeScript, Angular, Ionic, HTML, Bootstrap and CSS, allowing me to build intuitive and efficient user interfaces for both web and mobile applications. I have worked on projects that integrate responsive design, mobile optimization, and a user experience-centric approach.
+</p>
 
 </div>
 
