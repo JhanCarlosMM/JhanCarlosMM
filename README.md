@@ -15,7 +15,11 @@
 
 <div align="left">
 
- <p align="center">Soy desarrollador web frontend</p>
+ <p align="center">Soy un desarrollador web con sólida experiencia en la creación de aplicaciones dinámicas y escalables utilizando las tecnologías más modernas. Mi stack principal incluye TypeScript, Angular, Ionic, HTML, Bootstrap y CSS, lo que me permite construir interfaces de usuario intuitivas y eficientes, tanto para aplicaciones web como móviles.
+
+He trabajado en proyectos que integran diseño responsivo, optimización para dispositivos móviles y un enfoque centrado en la experiencia del usuario. Mi dominio de TypeScript y Angular me permite desarrollar soluciones con código mantenible y de alto rendimiento, mientras que Ionic me brinda la capacidad de llevar esas soluciones al entorno móvil de manera ágil.
+
+Estoy comprometido con la mejora continua, la adopción de nuevas tecnologías y la entrega de productos que superen las expectativas de los clientes, asegurando siempre que cada detalle del diseño sea implementado con precisión, desde la estructura HTML hasta el diseño visual con Bootstrap y CSS.</p>
 
 </div>
 
